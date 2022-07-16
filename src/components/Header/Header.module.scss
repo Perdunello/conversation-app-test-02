@@ -1,0 +1,29 @@
+.mainWrapper {
+  background: yellowgreen;
+  padding-bottom: 10px;
+  .centring{
+    width: 80%;
+    margin: auto;
+  }
+}
+
+.login {
+  text-align: end;
+
+  button {
+  background: yellow;
+    border: 1px solid black;
+    border-radius: 10px ;
+    padding: 10px;
+    width:100px;
+  }
+}
+.rate{
+  //font-weight: bold;
+}
+.mainRates {
+  display: flex;
+  flex-direction: column;
+  text-align: end;
+}
+
